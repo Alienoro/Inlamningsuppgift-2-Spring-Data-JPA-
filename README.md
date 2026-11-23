@@ -1,4 +1,4 @@
-Välkommen till Bilverkstaden!
+#Välkommen till Bilverkstaden!
 Detta är ett REST-baserat projekt byggt med Spring Boot, Spring Data JPA och H2 för att hantera kunder och fordon.
 
 #Instruktioner
